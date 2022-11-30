@@ -10,4 +10,4 @@ btn.onclick = function () {
     ul.style = "display: none;";
   }
 };
-document.querySelector(".contact").querySelector("a").title = "developer";
+document.querySelector(".contact").querySelector("a").title = "The Developer";
